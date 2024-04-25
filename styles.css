@@ -1,0 +1,25 @@
+div {
+  width: 100px;
+  height: 50px;
+  margin: 50px;
+}
+
+.div1 {
+  background-color: forestgreen;
+  border-radius: 16px;
+}
+.div2 {
+  border-radius: 50%;
+  background-color: darkmagenta;
+}
+.div3 {
+  height: 100px;
+  border-radius: 50%;
+  background-color: aquamarine;
+}
+.div4 {
+  height: 100px;
+  border: 50px solid transparent;
+  border-top: 50px solid brown;
+  box-sizing: border-box;
+}
